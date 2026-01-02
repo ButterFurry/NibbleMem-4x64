@@ -1,0 +1,23 @@
+padgroup din_vector permute
+twpin_din[0]  nonfixed
+twpin_din[1]  nonfixed
+twpin_din[2]  nonfixed
+twpin_din[3]  nonfixed
+restrict side TBLR
+
+padgroup dout_vector permute
+twpin_dout[0]  nonfixed
+twpin_dout[1]  nonfixed
+twpin_dout[2]  nonfixed
+twpin_dout[3]  nonfixed
+restrict side TBLR
+
+padgroup addr_vector permute
+twpin_addr[0]  nonfixed
+twpin_addr[1]  nonfixed
+twpin_addr[2]  nonfixed
+twpin_addr[3]  nonfixed
+twpin_addr[4]  nonfixed
+twpin_addr[5]  nonfixed
+restrict side TBLR
+

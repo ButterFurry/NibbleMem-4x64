@@ -1,0 +1,11 @@
+Qflow project preparation output log Thu Jan  1 23:35:31 2026
+
+--------------------------------
+Qflow project setup
+--------------------------------
+
+Technology set to osu035
+
+No actions specified on command line;
+creating qflow script file /home/Amity/asic/first_chip/nibble_mem/qflow_exec.sh only.
+Uncomment lines in this file and source the file to run the flow.
