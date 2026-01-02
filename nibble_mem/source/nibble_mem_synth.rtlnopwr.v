@@ -1,1 +1,0 @@
-/home/Amity/asic/qflow/nibble_mem/src/nibble_mem_synth.rtlnopwr.v
